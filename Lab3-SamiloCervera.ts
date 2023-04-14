@@ -22,7 +22,7 @@ interface Structure {
     getAnnual(): number
 }
 
-// Franz Sammilo - class exclusive methods/attributes
+// Franz Samilo - class exclusive methods/attributes
 class BurgerJoint implements Structure {
     size: Size;
     cost: number;
